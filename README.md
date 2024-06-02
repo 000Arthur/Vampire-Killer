@@ -14,6 +14,7 @@ If you want more information about the game, check the following link: https://g
 
 ## Installation
 **_Unzip the release folder and execute the .exe file_**
+[RELEASE FOLDER](https://github.com/000Arthur/Vampire-Killer/releases)
 
 ## Game Controls
      * SPACE = Insert Coins
