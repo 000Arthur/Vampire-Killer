@@ -13,8 +13,8 @@ If you want more information about the game, check the following link: https://g
 [![Watch the video](https://github.com/000Arthur/Vampire-Killer/blob/main/VampireKiller_Sprites/Intro/Vampire_Killer_MSX_Title_Screen_English_2.png?raw=true)](https://www.youtube.com/watch?v=sSM8D2x4uZA)
 
 ## Installation
-**_Unzip the release folder and execute the .exe file_**
-[RELEASE FOLDER](https://github.com/000Arthur/Vampire-Killer/releases)
+**_Unzip the [RELEASE FOLDER](https://github.com/000Arthur/Vampire-Killer/releases) and execute the .exe file_**
+
 
 ## Game Controls
      * SPACE = Insert Coins
