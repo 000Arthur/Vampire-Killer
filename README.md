@@ -10,7 +10,7 @@ If you want more information about the game, check the following link: https://g
 
 ## Video Showing Current Features
 
-[![Watch the video](https://github.com/000Arthur/Vampire-Killer/blob/main/VampireKiller_Sprites/Intro/Vampire_Killer_MSX_Title_Screen_English_2.png?raw=true)](https://www.youtube.com/watch?v=sSM8D2x4uZA)
+[![Watch the video](https://github.com/000Arthur/Vampire-Killer/blob/main/VampireKiller_Sprites/Intro/Vampire_Killer_MSX_Title_Screen_English_2.png?raw=true)](https://youtu.be/5EHmAKTD8FI)
 
 ## Installation
 **_Unzip the [RELEASE FOLDER](https://github.com/000Arthur/Vampire-Killer/releases) and execute the .exe file_**
@@ -33,6 +33,12 @@ If you want more information about the game, check the following link: https://g
      * F2 = Next Stage
      * F3 = Previous Stage
      * F4 = Game Over (Lose Condition)
+     * F5 = Kill all Enemies
+     * F6 = Spawn Panther
+     * F7 = Spawn Skeleton
+     * F8 = Spawn Bat
+     * F9 = Floor Up
+     * F10 = Floor Down
      
 ## Features implemented & Changelist
 ### 0.1 Version (8/04/2024)
