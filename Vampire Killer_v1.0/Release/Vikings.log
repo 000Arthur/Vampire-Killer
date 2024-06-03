@@ -1,0 +1,34 @@
+﻿Game.obj : error LNK2001: unresolved external symbol DrawTexturePro
+Game.obj : error LNK2001: unresolved external symbol SetExitKey
+Game.obj : error LNK2001: unresolved external symbol UpdateMusicStream
+Game.obj : error LNK2001: unresolved external symbol SetTargetFPS
+Game.obj : error LNK2001: unresolved external symbol DrawTexture
+Game.obj : error LNK2001: unresolved external symbol StopMusicStream
+Game.obj : error LNK2001: unresolved external symbol LoadMusicStream
+Game.obj : error LNK2001: unresolved external symbol PlayMusicStream
+Game.obj : error LNK2001: unresolved external symbol EndTextureMode
+Game.obj : error LNK2001: unresolved external symbol ClearBackground
+Game.obj : error LNK2001: unresolved external symbol IsKeyPressed
+Game.obj : error LNK2001: unresolved external symbol WindowShouldClose
+Game.obj : error LNK2001: unresolved external symbol LoadRenderTexture
+Game.obj : error LNK2001: unresolved external symbol UnloadRenderTexture
+Game.obj : error LNK2001: unresolved external symbol SetTextureFilter
+Game.obj : error LNK2001: unresolved external symbol BeginDrawing
+Game.obj : error LNK2001: unresolved external symbol InitAudioDevice
+Game.obj : error LNK2001: unresolved external symbol InitWindow
+Game.obj : error LNK2001: unresolved external symbol BeginTextureMode
+Game.obj : error LNK2001: unresolved external symbol EndDrawing
+Player.obj : error LNK2001: unresolved external symbol IsKeyDown
+Player.obj : error LNK2001: unresolved external symbol DrawPixel
+Player.obj : error LNK2001: unresolved external symbol TextFormat
+Player.obj : error LNK2001: unresolved external symbol DrawText
+RenderComponent.obj : error LNK2001: unresolved external symbol DrawRectangleRec
+ResourceManager.obj : error LNK2001: unresolved external symbol UnloadTexture
+ResourceManager.obj : error LNK2001: unresolved external symbol LoadTexture
+    Hint on symbols that are defined and could potentially match:
+      "public: enum AppStatus __cdecl ResourceManager::LoadTexture(enum Resource,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?LoadTexture@ResourceManager@@QEAA?AW4AppStatus@@W4Resource@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Scene.obj : error LNK2001: unresolved external symbol BeginMode2D
+Scene.obj : error LNK2001: unresolved external symbol DrawRectangle
+Scene.obj : error LNK2001: unresolved external symbol EndMode2D
+Sprite.obj : error LNK2001: unresolved external symbol DrawTextureRec
+C:\Users\ASUS\Desktop\Vampire_Killer\x64\Release\VampireKiller.exe : fatal error LNK1120: 31 unresolved externals
